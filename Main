@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frohe Weihnachten!</title>
+</head>
+<body style="text-align: center; font-family: Arial, sans-serif;">
+    <h1>Frohe Weihnachten!</h1>
+    <p>Wähle eines der beiden Geschenke aus:</p>
+    <button onclick="location.href='https://linkzumgeschenk1.com'">Option 1: Ein spannendes Buch</button>
+    <button onclick="location.href='https://linkzumgeschenk2.com'">Option 2: Ein Erlebnisgutschein</button>
+</body>
+</html>
